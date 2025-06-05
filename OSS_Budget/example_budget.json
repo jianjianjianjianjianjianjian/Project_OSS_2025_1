@@ -1,0 +1,302 @@
+[
+  {
+    "date": "2025-06-01",
+    "category": "식비",
+    "description": "편의점 도시락",
+    "amount": 5500
+  },
+  {
+    "date": "2025-06-02",
+    "category": "교통",
+    "description": "버스 요금",
+    "amount": 1200
+  },
+  {
+    "date": "2025-06-03",
+    "category": "예금",
+    "description": "월급 입금",
+    "amount": 2500000
+  },
+  {
+    "date": "2025-06-04",
+    "category": "적금",
+    "description": "청년 희망 적금",
+    "amount": 500000
+  },
+  {
+    "date": "2025-06-05",
+    "category": "투자",
+    "description": "국내 주식 매수",
+    "amount": 300000
+  },
+  {
+    "date": "2025-06-06",
+    "category": "투자",
+    "description": "해외 주식 매수",
+    "amount": 400000
+  },
+  {
+    "date": "2025-06-07",
+    "category": "투자",
+    "description": "채권 매수",
+    "amount": 150000
+  },
+  {
+    "date": "2025-06-08",
+    "category": "투자",
+    "description": "금 현물 매수",
+    "amount": 200000
+  },
+  {
+    "date": "2025-06-09",
+    "category": "투자",
+    "description": "달러 예치",
+    "amount": 100000
+  },
+  {
+    "date": "2025-06-10",
+    "category": "식비",
+    "description": "치킨 배달",
+    "amount": 18000
+  },
+  {
+    "date": "2025-06-11",
+    "category": "현금",
+    "description": "ATM 출금",
+    "amount": 300000
+  },
+  {
+    "date": "2025-06-12",
+    "category": "문화",
+    "description": "영화 관람",
+    "amount": 12000
+  },
+  {
+    "date": "2025-06-13",
+    "category": "쇼핑",
+    "description": "옷 구매",
+    "amount": 70000
+  },
+  {
+    "date": "2025-06-14",
+    "category": "현금",
+    "description": "현금 사용 (식당)",
+    "amount": 25000
+  },
+  {
+    "date": "2025-06-15",
+    "category": "교통",
+    "description": "지하철 정기권",
+    "amount": 55000
+  },
+  {
+    "date": "2025-06-16",
+    "category": "식비",
+    "description": "카페 아메리카노",
+    "amount": 4800
+  },
+  {
+    "date": "2025-06-17",
+    "category": "의료",
+    "description": "약국 지출",
+    "amount": 8200
+  },
+  {
+    "date": "2025-06-18",
+    "category": "기타",
+    "description": "택배비",
+    "amount": 3500
+  },
+  {
+    "date": "2025-06-19",
+    "category": "현금",
+    "description": "친구 생일 선물",
+    "amount": 40000
+  },
+  {
+    "date": "2025-06-20",
+    "category": "투자",
+    "description": "암호화폐 매수",
+    "amount": 50000
+  },
+  {
+    "date": "2025-06-21",
+    "category": "기타",
+    "description": "기타 소모품",
+    "amount": 194081
+  },
+  {
+    "date": "2025-06-22",
+    "category": "기타",
+    "description": "팁",
+    "amount": 234221
+  },
+  {
+    "date": "2025-06-23",
+    "category": "적금",
+    "description": "목표 저축",
+    "amount": 183323
+  },
+  {
+    "date": "2025-06-24",
+    "category": "현금",
+    "description": "현금 사용",
+    "amount": 176372
+  },
+  {
+    "date": "2025-06-25",
+    "category": "현금",
+    "description": "현금 인출",
+    "amount": 172996
+  },
+  {
+    "date": "2025-06-26",
+    "category": "교통",
+    "description": "지하철",
+    "amount": 280040
+  },
+  {
+    "date": "2025-06-27",
+    "category": "예금",
+    "description": "보너스 입금",
+    "amount": 256617
+  },
+  {
+    "date": "2025-06-28",
+    "category": "적금",
+    "description": "목표 저축",
+    "amount": 182782
+  },
+  {
+    "date": "2025-06-29",
+    "category": "식비",
+    "description": "배달 음식",
+    "amount": 8084
+  },
+  {
+    "date": "2025-06-30",
+    "category": "문화",
+    "description": "전시회",
+    "amount": 154572
+  },
+  {
+    "date": "2025-07-01",
+    "category": "예금",
+    "description": "보너스 입금",
+    "amount": 223200
+  },
+  {
+    "date": "2025-07-02",
+    "category": "쇼핑",
+    "description": "전자제품",
+    "amount": 266848
+  },
+  {
+    "date": "2025-07-03",
+    "category": "식비",
+    "description": "패스트푸드",
+    "amount": 234303
+  },
+  {
+    "date": "2025-07-04",
+    "category": "문화",
+    "description": "전시회",
+    "amount": 200195
+  },
+  {
+    "date": "2025-07-05",
+    "category": "쇼핑",
+    "description": "전자제품",
+    "amount": 235581
+  },
+  {
+    "date": "2025-07-06",
+    "category": "식비",
+    "description": "분식",
+    "amount": 76493
+  },
+  {
+    "date": "2025-07-07",
+    "category": "예금",
+    "description": "기타 예금",
+    "amount": 243231
+  },
+  {
+    "date": "2025-07-08",
+    "category": "식비",
+    "description": "분식",
+    "amount": 286648
+  },
+  {
+    "date": "2025-07-09",
+    "category": "기타",
+    "description": "기부",
+    "amount": 14061
+  },
+  {
+    "date": "2025-07-10",
+    "category": "현금",
+    "description": "현금 인출",
+    "amount": 179101
+  },
+  {
+    "date": "2025-07-11",
+    "category": "쇼핑",
+    "description": "화장품",
+    "amount": 119386
+  },
+  {
+    "date": "2025-07-12",
+    "category": "의료",
+    "description": "건강검진",
+    "amount": 42513
+  },
+  {
+    "date": "2025-07-13",
+    "category": "쇼핑",
+    "description": "화장품",
+    "amount": 58237
+  },
+  {
+    "date": "2025-07-14",
+    "category": "현금",
+    "description": "현금 인출",
+    "amount": 76645
+  },
+  {
+    "date": "2025-07-15",
+    "category": "식비",
+    "description": "분식",
+    "amount": 6698
+  },
+  {
+    "date": "2025-07-16",
+    "category": "현금",
+    "description": "현금 사용",
+    "amount": 61095
+  },
+  {
+    "date": "2025-07-17",
+    "category": "기타",
+    "description": "팁",
+    "amount": 119513
+  },
+  {
+    "date": "2025-07-18",
+    "category": "문화",
+    "description": "책 구입",
+    "amount": 244063
+  },
+  {
+    "date": "2025-07-19",
+    "category": "교통",
+    "description": "버스",
+    "amount": 170967
+  },
+  {
+    "date": "2025-07-20",
+    "category": "현금",
+    "description": "현금 인출",
+    "amount": 77993
+  }
+]
