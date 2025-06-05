@@ -1,0 +1,22 @@
+[
+  {"date": "2025-06-12", "category": "문화", "description": "영화 관람", "amount": 12000},
+  {"date": "2025-06-04", "category": "적금", "description": "청년 희망 적금", "amount": 500000},
+  {"date": "2025-06-19", "category": "현금", "description": "친구 생일 선물", "amount": 40000},
+  {"date": "2025-06-02", "category": "교통", "description": "버스 요금", "amount": 1200},
+  {"date": "2025-06-10", "category": "식비", "description": "치킨 배달", "amount": 18000},
+  {"date": "2025-06-01", "category": "식비", "description": "편의점 도시락", "amount": 5500},
+  {"date": "2025-06-07", "category": "투자", "description": "채권 매수", "amount": 150000},
+  {"date": "2025-06-06", "category": "투자", "description": "해외 주식 매수", "amount": 400000},
+  {"date": "2025-06-18", "category": "기타", "description": "택배비", "amount": 3500},
+  {"date": "2025-06-15", "category": "교통", "description": "지하철 정기권", "amount": 55000},
+  {"date": "2025-06-13", "category": "쇼핑", "description": "옷 구매", "amount": 70000},
+  {"date": "2025-06-20", "category": "투자", "description": "암호화폐 매수", "amount": 50000},
+  {"date": "2025-06-05", "category": "투자", "description": "국내 주식 매수", "amount": 300000},
+  {"date": "2025-06-17", "category": "의료", "description": "약국 지출", "amount": 8200},
+  {"date": "2025-06-11", "category": "현금", "description": "ATM 출금", "amount": 300000},
+  {"date": "2025-06-08", "category": "투자", "description": "금 현물 매수", "amount": 200000},
+  {"date": "2025-06-14", "category": "현금", "description": "현금 사용 (식당)", "amount": 25000},
+  {"date": "2025-06-03", "category": "예금", "description": "월급 입금", "amount": 2500000},
+  {"date": "2025-06-09", "category": "투자", "description": "달러 예치", "amount": 100000},
+  {"date": "2025-06-16", "category": "식비", "description": "카페 아메리카노", "amount": 4800}
+]
